@@ -46,9 +46,9 @@ _Top 10 Performers by ESG Risk Level_
 
 Companies are listed on the y-axis and their corresponding ESG Risk Scores on the x-axis. 
 
--Cbre Group Inc A
--Hasbro Inc
--Keysight Technologies Inc
+- Cbre Group Inc A
+- Hasbro Inc
+- Keysight Technologies Inc
 
 These companies have scores ranging approximately from 7.0 to 11.0, denoting better ESG performance.
 
@@ -60,8 +60,8 @@ Companies on the y-axis and ESG Risk Scores on the x-axis.
 
 For the worst performers, the companies with the highest (worst) ESG Risk Scores are:
 
--Coterra Energy Inc
--Occidental Petroleum Corp
--Marathon Oil Corp
+- Coterra Energy Inc
+- Occidental Petroleum Corp
+- Marathon Oil Corp
 
 The scores for these companies are significantly higher, indicating poorer ESG performance, with scores around 37.0 to 46.0.

@@ -38,8 +38,7 @@ _3. The third chart shows the average environmental risk by sector_
 The Energy sector has the highest average environmental risk score at 17.18 and the Real Estate sector having the lowest at 3.77. 
 The bars are colored in shades of green, with darker hues indicating higher risk scores.
 
-**These charts are showing the best and poorest ESG risk scores of companies:
-**
+These charts are showing the best and poorest ESG risk scores of companies:
 
 _Top 10 Performers by ESG Risk Level_
 

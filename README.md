@@ -6,8 +6,8 @@ It includes various attributes such as company name, sector, industry, full-time
 as well as overall ESG risk scores and controversy levels. The sectors are diverse, with Technology being the most represented, and the ESG risk scores vary, 
 with some companies having significantly higher risk levels indicating a potential for greater scrutiny or need for ESG improvements.
 
-**This bar chart that shows the average total ESG (Environmental, Social, and Governance) Risk Score for various sectors. 
-**
+**This bar chart that shows the average total ESG (Environmental, Social, and Governance) Risk Score for various sectors. **
+
 ![Average ESG score by sector](https://github.com/kadavka/ESG_data_analysis/assets/61791999/83ad1275-fdc0-4954-bd8c-c959d7d6d7ab)
 
 Each bar represents a different sector, with the length of the bar corresponding to the average ESG score for that sector. 
